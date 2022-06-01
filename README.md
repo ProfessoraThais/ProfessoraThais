@@ -1,4 +1,5 @@
-# Sobre mim
+# Professora Thaís#
+### Professora da disciplina de Pensamento Computacional ###
 
 - 👋 Olá, meu nome é @ProfessoraThais
 - Meu e-mail de contato é thais.fernandes14@escola.pr.gov.br
